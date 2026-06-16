@@ -1,6 +1,4 @@
-# pyrefly: ignore [missing-import]
 from flask import Flask, request, jsonify, render_template, session
-# pyrefly: ignore [missing-import]
 from npmai import Memory
 import requests
 import json
